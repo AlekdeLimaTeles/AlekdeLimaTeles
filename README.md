@@ -20,7 +20,7 @@ Caso queira trocar um papo so mandar oi, segue meu email : contatoalekteles@gmai
 ## Experiência/Projetos
 *  ❄ Projeto Fridge - http://fridge-html-xi.vercel.app/
 
->     Uma experiência focada inteiramente na interface , com o auxílio da excelente @jemluz aprendi muito sobre UX e esquema de cores🌈
+>  Uma experiência focada inteiramente na interface , com o auxílio da excelente @jemluz aprendi muito sobre UX e esquema de cores
 
 *  📘 Projeto FireBlogs - https://fireblogs-bdcc3.web.app/
 
