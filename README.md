@@ -1,7 +1,7 @@
 ## Alek Teles
 23 Anos / Natural de Fortaleza-Ce ⭐
 
-Quem sou eu ?
+*  Quem sou eu ?
 
 > [✔] Entusiasta de fisiculturismo 🏋️‍♀️
 
