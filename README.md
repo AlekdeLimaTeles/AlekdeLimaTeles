@@ -27,11 +27,11 @@ Uma experiência focada inteiramente na interface , com o auxílio da excelente 
 Feito em Vue.js 2.6.2 e com o uso da plataforma firebase para banco de dados/deploy , projeto full stack feito com o intuito de ser um blog de dicas para
 programação 💬
 
-Projeto api de transações bancarias - https://github.com/AlekLimaTeles/02-API-REST-NODEJSREP
+>   Projeto api de transações bancarias - https://github.com/AlekLimaTeles/02-API-REST-NODEJSREP
 
 Feito como primeiro passo para o curso de Node.js na RocketSeat, projeto base para a api de dieta
 
-Projeto api de dieta - https://github.com/AlekLimaTeles/Desafio-Node02
+>   Projeto api de dieta - https://github.com/AlekLimaTeles/Desafio-Node02
 
 Feito utilizando Fastify,Zod,Typescript,sqlite,Vitest,Eslint, conteudo essencial para meu desenvolvimento como profissional, projeto desafio proposto durante o curso de Node.js da RocketSeat
 
