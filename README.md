@@ -33,7 +33,7 @@ Caso queira trocar um papo so mandar oi, segue meu email : contatoalekteles@gmai
 
 *   Projeto api de dieta - https://github.com/AlekLimaTeles/Desafio-Node02
 
->   Feito utilizando Fastify,Zod,Typescript,sqlite,Vitest,Eslint, conteudo essencial para meu desenvolvimento como profissional, projeto desafio proposto durante o curso de Node.js da RocketSeat
+> Feito utilizando Fastify,Zod,Typescript,sqlite,Vitest,Eslint, conteudo essencial para meu desenvolvimento como profissional, projeto desafio proposto durante o curso de Node.js da RocketSeat
 
     Cursando especialização em back-end utilizando Nodejs, ministrada pela renomada Rocketseat, projetos e desafios da especialização em meu perfil!
     
