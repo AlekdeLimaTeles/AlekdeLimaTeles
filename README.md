@@ -1,4 +1,4 @@
-Alek Teles
+## Alek Teles
 23 Anos / Natural de Fortaleza-Ce ⭐
 
 Quem sou eu ?
@@ -17,7 +17,7 @@ Possuo grande interesse em oportunidades que me tirem de minha zona de conforto 
 
 Caso queira trocar um papo so mandar oi, segue meu email : contatoalekteles@gmail.com
 
-Experiência/Projetos
+## Experiência/Projetos
 ❄ Projeto Fridge - http://fridge-html-xi.vercel.app/
 
 Uma experiência focada inteiramente na interface , com o auxílio da excelente @jemluz aprendi muito sobre UX e esquema de cores🌈
